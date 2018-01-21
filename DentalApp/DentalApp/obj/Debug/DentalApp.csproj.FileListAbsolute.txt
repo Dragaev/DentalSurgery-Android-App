@@ -1,0 +1,47 @@
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\DentalApp.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\DentalApp.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.MainPage.xaml.g.cs
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.App.xaml.g.cs
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.InformationPage.xaml.g.cs
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.DocListPage.xaml.g.cs
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.PriceListPage.xaml.g.cs
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.ShedulePage.xaml.g.cs
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.ModalPage.xaml.g.cs
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.csprojResolveAssemblyReference.cache
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\DentalApp.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\DentalApp.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.MainPage.xaml.g.cs
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.App.xaml.g.cs
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.InformationPAGE.xaml.g.cs
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.PriceListPage.xaml.g.cs
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.ShedulePage.xaml.g.cs
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Plugin.Messaging.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Plugin.Messaging.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Plugin.Messaging.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.csprojResolveAssemblyReference.cache
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.MapPage.xaml.g.cs
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.FormFillingPage.xaml.g.cs

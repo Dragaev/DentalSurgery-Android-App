@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DentalApp"
+             x:Class="DentalApp.MainPage" Title="Каинская стоматология">
+    <StackLayout>
+        <Image Source="mainPhoto.jpg" />
+        <Button x:Name="CallButton" Text="Позвонить" TextColor="White" BackgroundColor="#2196f3"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="Fill" Clicked="CallButton_Clicked"/>
+        <StackLayout Orientation="Horizontal">
+        <Button x:Name="ToInformationPageButton" Text="Информация" TextColor="White" BackgroundColor="#2196f3"
+           VerticalOptions="FillAndExpand" 
+           HorizontalOptions="Start" Clicked="ToInformationPage"/>
+        <Button x:Name="ToModalPageButton" Text="Запись на прием" TextColor="White" BackgroundColor="#2196f3"
+            VerticalOptions="End" 
+            HorizontalOptions="FillAndExpand" Clicked="ToModalPage"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

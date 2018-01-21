@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DentalApp.ModalPage" Title="Запись на прием" >
+    <StackLayout>
+    <TableView>
+        <TableView.Root>
+            <TableRoot Title="Запись на прием">
+                <TableSection Title="Персональные данные">
+                    <EntryCell x:Name="surnameEntryCell" Label="Фамилия" Keyboard="Default" Placeholder="Введите фамилию"/>
+                    <EntryCell x:Name="nameEntryCell" Label="Имя" Keyboard="Default" Placeholder="Введите имя"/>
+                        <EntryCell x:Name="patronymicEntryCell" Label="Отчество" Keyboard="Default" Placeholder="Введите отчество"/>
+                    <SwitchCell Text="Сохранить"/>
+                </TableSection>
+                <TableSection Title="Контактные данные">
+                    <EntryCell x:Name="phoneEntryCell" Label="Телефон" Keyboard="Telephone" Placeholder="Введите номер телефона"/>
+                    <EntryCell x:Name="emailEntryCell" Label="Email" Keyboard="Email" Placeholder="Введите email (если есть)"/>
+                    </TableSection>
+             </TableRoot>
+        </TableView.Root>
+    </TableView>
+        <Button x:Name="SendBtn" Text="Отправить" Clicked="SendBtn_Clicked" />
+    </StackLayout>
+</ContentPage>

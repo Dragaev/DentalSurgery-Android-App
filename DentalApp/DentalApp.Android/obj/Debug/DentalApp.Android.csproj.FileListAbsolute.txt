@@ -1,0 +1,126 @@
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.apk
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android-Signed.apk
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\FormsViewGroup.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\DentalApp.Android.csprojResolveAssemblyReference.cache
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\DentalApp.Android.dll
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\DentalApp.Android.pdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\bin\DentalApp.Android.apk
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\icon.png
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\values\styles.xml
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\R.cs.flag
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\uploadflags.txt
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\DentalApp.Android.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\DentalApp.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\gobruseva.jpg
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\lebzak.jpg
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\nikulin.jpg
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\gorchakov.jpg
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\jablonskaya.jpg
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\krestyan.jpg
+C:\Users\outli\onedrive\документы\visual studio 2017\Projects\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\dragaeva.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.apk
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android-Signed.apk
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\DentalApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\DentalApp.Android.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\DentalApp.Android.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\bin\DentalApp.Android.apk
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\icon.png
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\values\styles.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\gobruseva.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\lebzak.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\nikulin.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\gorchakov.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\jablonskaya.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\krestyan.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\dragaeva.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\R.cs.flag
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\uploadflags.txt
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.dll
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\mainphoto.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\res\drawable\map.jpg
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\bin\Debug\DentalApp.Android.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\DentalApp.Android.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\DentalApp.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
