@@ -45,3 +45,4 @@ C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\bin\Debug\CarouselView.Form
 C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.csprojResolveAssemblyReference.cache
 C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.MapPage.xaml.g.cs
 C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.FormFillingPage.xaml.g.cs
+C:\Users\outli\Desktop\DentalApp\DentalApp\DentalApp\obj\Debug\DentalApp.csproj.CoreCompileInputs.cache
